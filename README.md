@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🤖 Hi, I'm Adam
 
-<!--
-**liladas/liladas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Python-first Software Engineer** blending tech with creativity. I architect solutions, explore **Cardano Blockchain** with **Aiken Smart Contracts**, and build sites with **Astro**. 
 
-Here are some ideas to get you started:
+Currently coding products for **Lilrobo** like **CrateNFC**, and revamping **Karaokio**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Lilrobo](https://github.com/lilrobo) | NFC Music Merch and Automation | 🚀 Active |
+| [CrateNFC](https://lilrobo.xyz/pages/cratenfc) | NFC logistics | 🚀 Active |
+| [Karaokio](https://github.com/Karaokio) | Karaoke Tools | 🔄 Revamping |
+| [Cardano/Aiken](https://aiken-lang.org/) | Aiken smart contracts | 🛠️ Exploring |
+| [Astro Sites](https://astro.build/) | Modern web dev | 🌟 Starting |
+
+---
+
+## 💻 About Me
+
+- **Tech**: Python, Data Engineering, AI tools, Astro, Cardano.
+- **Creative**: Design, Music, Art, Karaoke
+
+---
+
+## 🌐 Connect
+
+- Follow me on [X - Build With Buga](https://x.com/BuildWithBuga) and other company accounts
+
+
+---
+*“unless you can make your own gravity you will be ultimately blown away in the magnetic wind of the sun.”*
